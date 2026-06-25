@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm an aspiring software developer. Currently studying in UTS.
+Currently studying second year at UTS.
